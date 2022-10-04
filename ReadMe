@@ -1,0 +1,11 @@
+Step 1:
+Make a zipfile of the auto_indexer folder or download the zipfile.
+
+Step 2:
+Convert the zipfile to tar.gz or download the tar.gz
+
+Step 3:
+Upload t he tar.gz to a site and enter the address in drupal cms interface.
+Extend -> add new moudle -> add from url -> enable newly added moudules, continue -> select auto index and install -> configuration -> search pages -> edit, automatically index on create/upload of content, save search page.
+
+Enjoy
