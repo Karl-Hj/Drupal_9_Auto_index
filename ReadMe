@@ -1,3 +1,4 @@
+If you want to download the tar.gz file or change things in the code.
 Step 1:
 Make a zipfile of the auto_indexer folder or download the zipfile.
 
@@ -8,6 +9,7 @@ Step 3:
 Upload t he tar.gz to a site and enter the address in drupal cms interface.
 Extend -> add new moudle -> add from url -> enable newly added moudules, continue -> select auto index and install -> configuration -> search pages -> edit, automatically index on create/upload of content, save search page.
 
-Enjoy
 
-Temp link (might be outdated https://filebin.net/vv66bgun1ttpc6l3/auto_indexer.tar.gz)
+OTHERWISE use this link https://github.com/Karl-Hj/Drupal_9_Auto_index/blob/main/auto_indexer.tar.gz?raw=true
+And follow these steps 
+Extend -> add new moudle -> add from url -> enable newly added moudules, continue -> select auto index and install -> configuration -> search pages -> edit, automatically index on create/upload of content, save search page.
